@@ -1,0 +1,17 @@
+1. git status
+2. git add . or git add (file name)
+3. git commit -m "msg"
+4. “git push -u origin master” or “git push -u origin <remote_branch_name>”
+ 5. “git pull origin master” or “git pull origin <remote_branch_name>”
+
+creat dir : mkdir dirName
+go site dir : cd site
+
+npm install -g browser-sync
+Browser Sync: browser-sync start --server --directory --files "*"
+
+cd Test
+ls
+git status
+git checkout gh-pages
+git status
